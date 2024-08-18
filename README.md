@@ -1,5 +1,5 @@
 # Testing-Course
-![software-testing-banner-web-icon-260nw-2219991321 jpgge](https://github.com/user-attachments/assets/aeca5b38-d21c-487e-bcdc-4bde8e733f9a)
+![software-testing-banner-web-icon-260nw-2219991321 jpgge](https://github.com/user-attachments/assets/28104e23-888f-4ddf-b3a0-80523941e0e0)
 ## Welcome Message:
 <b>
 <P>Welcome 👋 gues to our testing course GitHub repository! We're excited to share our knowledge and experience with you. In this repo, you'll find a collection of resources, including code examples, tutorials, and quizzes to help you learn testing concepts. Dive in, learn, and have fun!</P>
@@ -66,6 +66,9 @@
 <img align="center" src="https://github.com/user-attachments/assets/00735e9d-24f8-4cc6-bcdf-521075390b64"  height="30" width="40" style="max-width: 100%;">  
 <a href="https://drive.google.com/file/d/1K8psLc60sLBk8izq8gYvAgBkKcoYZ1yz/view?usp=drive_link" > <b> 
 Lectures </b>  </a>
+
+## Quizes and Exercises:
+<img align="center" src="https://github.com/user-attachments/assets/bfafb91d-3df5-43c5-a4bd-4c7dc0b45a5b"  height="30" width="40" style="max-width: 100%;">  
 
 ## Explanition Of Course:
 <img src="https://github.com/user-attachments/assets/e2f9c9f9-ba1a-4a2c-b664-f45e22dee8af" align="right" width="400px" height="300px" j>
