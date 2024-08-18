@@ -61,5 +61,5 @@
     <li>Prototyping Model</li>
   </ul>
 </b>
+https://docs.google.com/viewer?url=https://drive.google.com/file/d/1K8psLc60sLBk8izq8gYvAgBkKcoYZ1yz/view?usp=drive_link
 
-<a href="https://drive.google.com/file/d/1K8psLc60sLBk8izq8gYvAgBkKcoYZ1yz/view?usp=drive_link">my PDF </a>
