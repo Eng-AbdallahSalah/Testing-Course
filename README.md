@@ -61,5 +61,6 @@
     <li>Prototyping Model</li>
   </ul>
 </b>
-https://docs.google.com/viewer?url=https://drive.google.com/file/d/1K8psLc60sLBk8izq8gYvAgBkKcoYZ1yz/view?usp=drive_link
 
+<iframe src="https://drive.google.com/file/d/1K8psLc60sLBk8izq8gYvAgBkKcoYZ1yz/view?usp=drive_link &embedded=true" 
+style="width:600px; height:500px;" frameborder="0"></iframe>
