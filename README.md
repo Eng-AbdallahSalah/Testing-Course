@@ -64,7 +64,7 @@
 
 ## Lecture Notes: 
 <img align="center" src="https://github.com/user-attachments/assets/00735e9d-24f8-4cc6-bcdf-521075390b64"  height="30" width="40" style="max-width: 100%;">  
-<a href="https://drive.google.com/file/d/1K8psLc60sLBk8izq8gYvAgBkKcoYZ1yz/view?usp=drive_link" > <b> 
+<a href="https://drive.google.com/file/d/1BUlnalH---zTPKd9cq2631pWFmNVmlXa/view?usp=sharing" > <b> 
 Lectures </b>  </a>
 
 ## Quizes and Exercises:
