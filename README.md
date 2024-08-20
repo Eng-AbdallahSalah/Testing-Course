@@ -1,5 +1,6 @@
 # Testing-Course
-![software-testing-banner-web-icon-260nw-2219991321 jpgge](https://github.com/user-attachments/assets/28104e23-888f-4ddf-b3a0-80523941e0e0)
+![software-testing-banner-web-icon-260nw-2219991321 jpgge-removebg-preview](https://github.com/user-attachments/assets/2c7212f7-a44c-4102-b22c-1e11b8c99862)
+
 ## Welcome Message:
 <b>
 <P>Welcome 👋 gues to our testing course GitHub repository! We're excited to share our knowledge and experience with you. In this repo, you'll find a collection of resources, including code examples, tutorials, and quizzes to help you learn testing concepts. Dive in, learn, and have fun!</P>
@@ -69,21 +70,6 @@ Lectures </b>  </a>
 
 ## Quizes and Exercises:
 <img align="center" src="https://github.com/user-attachments/assets/bfafb91d-3df5-43c5-a4bd-4c7dc0b45a5b"  height="30" width="40" style="max-width: 100%;">  
-
-## Explanition Of Course:
-<img src="https://github.com/user-attachments/assets/e2f9c9f9-ba1a-4a2c-b664-f45e22dee8af" align="right" width="400px" height="300px" j>
-<div align="center">انتظرونا قريبا علي قناتنا علي اليوتيوب</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 
 ## Social Media:
